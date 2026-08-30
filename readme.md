@@ -1,5 +1,3 @@
-Absolutely — since this is a **project README**, I’d make it feel polished and technical rather than just describing the UI. The key thing worth highlighting is that the cyberpunk terminal is **actually powered by FastAPI + WebSockets**, so the aesthetic has a real-time backend underneath it.
-
 # 🌐 Cyberpunk Netrunner Terminal
 
 > **A real-time cyberpunk communication terminal powered by FastAPI WebSockets.**
